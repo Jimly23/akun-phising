@@ -137,7 +137,6 @@ function App() {
       {/* <h4 className="text-center font-medium italic">Official</h4> */}
       <div className="border rounded-lg bg-white shadow-lg p-5 mt-10">
         <h5 className="font-bold text-xl mb-2">Event Diamond Free Fire</h5>
-        <p className="text-sm font-medium">Diamond akan masuk setelah 8 jam</p>
         <div className="mt-5">
           <p className="font-medium">ID Free Fire</p>
           <input
